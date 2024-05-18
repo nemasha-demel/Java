@@ -21,6 +21,7 @@ public class class4 implements class3 {
         class3 objClass3 = new class4(); // Can create objects of interface class
         System.out.println(objClass3.age);
 
+        /* */
     }
 
 }
